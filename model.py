@@ -36,7 +36,7 @@ class HyCubE(BaseClass):
         self.emb_dim2 = emb_dim // emb_dim1
         self.max_arity = max_arity
         
-        # self.inp_drop = nn.Dropout(inp_drop) # inp_drop 0.2
+        self.inp_drop = nn.Dropout(inp_drop) # inp_drop 0.2
         self.dropout = nn.Dropout(dropout) # hidden_drop 0.2
         self.dropout_3d = nn.Dropout(dropout_3d) # feature_map_drop 0.3
 
