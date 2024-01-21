@@ -1,0 +1,6 @@
+0	make
+1	exterior_color
+2	privately_owned_vehicle
+3	manufacturing_plant_model_relationship
+4	generation
+5	us_fuel_economy
