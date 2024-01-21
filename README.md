@@ -1,4 +1,4 @@
-# The HJE Model
+# The HyCubE Model
 This paper has been submitted to the SIGKDD 2024.
 
 
