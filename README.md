@@ -13,14 +13,14 @@ The version of Python and major packages needed to run the code:
 
 ## How to Run
 
-### 1. Mixed Arity Knowledge Hypergraph
+#### 1. Mixed Arity Knowledge Hypergraph
 ```
 python main-JF17K.py                 ## JF17K dataset
 python main-WikiPeople.py            ## WikiPeople dataset
 python main-FB-AUTO.py               ## FB-AUTO dataset
 ```
 
-### 2. Fixed Arity Knowledge Hypergraph
+#### 2. Fixed Arity Knowledge Hypergraph
 ```
 ## JF17K-3 dataset
 python main-fixed3.py --dataset JF17K-3 --batch_size 256 --lr 0.0005 --dr 0.995 --dropout 0.1 --dropout_3d 0.2 --padding 2
@@ -35,7 +35,7 @@ python main-fixed3.py --dataset WikiPeople-3 --batch_size 128 --lr 0.00025 --dr 
 python main-fixed4.py --dataset WikiPeople-4 --batch_size 128 --lr 0.00025 --dr 0.995 --dropout 0.4 --dropout_3d 0.5 --padding 3
 ```
 
-### 3. Binary Knowledge Graph
+#### 3. Binary Knowledge Graph
 ```
 ## FB15K-237 dataset
 python main-fixed2.py --dataset FB15K-237 --batch_size 256 --lr 0.0005 --dr 0.995 --dropout 0.6 --dropout_3d 0.5 --padding 3
