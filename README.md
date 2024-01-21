@@ -11,6 +11,8 @@ The version of Python and major packages needed to run the code:
     -- numpy 1.26.0
     -- tqdm 4.65.0
 
+
+
 ## How to Run
 
 #### 1. Mixed Arity Knowledge Hypergraph
@@ -49,6 +51,8 @@ python main-fixed2.py --dataset WikiPeople-2 --batch_size 128 --lr 0.00025 --dr 
 ## FB-AUTO-2 dataset
 python main-fixed2.py --dataset FB-AUTO-2 --batch_size 128 --lr 0.0005 --dr 0.99 --dropout 0.7 --dropout_3d 0.4 --padding 2
 ```
+
+
 
 ## Acknowledgments
 We are very grateful for all open-source baseline models:
