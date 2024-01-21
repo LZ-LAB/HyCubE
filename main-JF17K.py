@@ -220,7 +220,7 @@ if __name__ == '__main__':
     parser.add_argument("--lr", type=float, default=0.0005, nargs="?", help="Learning rate.")
     parser.add_argument("--dr", type=float, default=0.995, nargs="?", help="Decay rate.")
     
-    # parser.add_argument("--inp_drop", type=float, default=0.20, nargs="?", help="inp_drop.")
+    parser.add_argument("--inp_drop", type=float, default=0.20, nargs="?", help="inp_drop.")
     parser.add_argument("--dropout", type=float, default=0.7, nargs="?", help="dropout.")
     parser.add_argument("--dropout_3d", type=float, default=0.3, nargs="?", help="dropout_3d.")
     
