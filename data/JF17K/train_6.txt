@@ -1,0 +1,15 @@
+education.education	016t_3	0fvd03	05h28n	03yywm	0ghwph4	02h400t
+education.education	023tdq	02bdq4	01zc2w	04g7x	011cct95	0156qk
+user.ajain.default_domain.admission_requirements	0trv	01yslw	016t_3	0db86	02ky346	04zx3q1
+education.education	023tdq	02bdq4	081k8	02h40lc	011cct95	076h6
+education.education	023tdq	02bdq4	01zc2w	04g7d	011cct95	04g7x
+education.education	023tdq	02bdq4	081k8	04g7d	011cct95	04g7x
+education.education	023tdq	02bdq4	081k8	06nm1	011cct95	076h6
+education.education	04zx3q1	01w5m	06hsk	0fdys	0c4dtts	02822
+education.education	023tdq	02bdq4	01zc2w	06nm1	011cct95	076h6
+education.education	023tdq	02bdq4	01zc2w	04g7x	011cct95	076h6
+education.education	023tdq	02bdq4	01zc2w	06nm1	011cct95	04g7x
+user.ajain.default_domain.admission_requirements	0trv	01yslw	019v9k	01mkq	02ky346	03bwzr4
+education.education	023tdq	02bdq4	01zc2w	04g51	011cct95	076h6
+education.education	0127vg_g	0128374g	01mkq	01lj9	0127vg_g	01zc2w
+education.education	023tdq	02bdq4	01zc2w	04g51	011cct95	0156qk
