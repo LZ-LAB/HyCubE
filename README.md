@@ -91,3 +91,22 @@ We are very grateful for all open-source baseline models:
 7. HyConvE: https://github.com/CarllllWang/HyConvE/tree/master
 8. RD-MPNN: https://github.com/ooCher/RD-MPNN/tree/main/RD_MPNN
 9. ReAlE: https://github.com/baharefatemi/ReAlE
+
+
+
+## Citation
+If you use this package for published work, please cite the following paper:
+```
+@article{HyCubE,
+  title={HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding}, 
+  author={Li, Zhao and Wang, Xin and Zhao, Jun and Guo, Wenbin and Li, Jianxin},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  year={2025},
+  volume={37},
+  number={4},
+  pages={1902--1914},
+  publisher={IEEE}
+}
+
+Li Z, Wang X, Zhao J, et al. HyCubE: Efficient Knowledge Hypergraph 3D Circular Convolutional Embedding[J]. IEEE Transactions on Knowledge and Data Engineering, 2025, 37(4): 1902-1914.
+```
