@@ -1,6 +1,4 @@
 # The HyCubE Model
-This paper has been submitted to the IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) journal.
-
 
 
 ## Requirements
